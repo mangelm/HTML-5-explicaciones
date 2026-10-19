@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Depuración de una página de adopción de mascotas</title>
+</head>
+<body>
+    <!--
+
+        *************************************************************
+                    Enunciado del ejercicio:
+        *************************************************************
+        Maria, propietaria de un centro de adopción de mascotas, ha creado su primera página web, 
+        pero presenta algunos problemas.
+
+        Tu tarea consiste en corregir todos los errores para que Maria pueda seguir desarrollando
+        su página.
+
+        Objetivo: Cumplir con las historias de usuario que aparecen a continuación y solucionar los 
+        errores.
+
+        *************************************************************
+                    Historias de usuario:
+        *************************************************************
+
+        Maria quiere incluir una imagen de unos gatos, pero no se visualiza correctamente. 
+        Debes realizar los siguientes ajustes en el elemento `img`:
+        Sustituye el atributo `href` por el atributo correcto para indicar la fuente de la imagen.
+        Sustituye el atributo `att` por el atributo adecuado para proporcionar un texto 
+        breve y descriptivo de la imagen.
+        Elimina la etiqueta de cierre `</img>`, ya que los elementos `img` son elementos 
+        vacíos y no requieren etiqueta de cierre.
+        Maria quiere añadir enlaces para dirigir a los usuarios a las páginas de 
+        perros y gatos, pero estos no funcionan correctamente. 
+        Debes realizar los siguientes ajustes en los elementos `a`:
+        Sustituye ambos atributos `src` por los atributos correctos para especificar
+        las URL. 
+
+        *************************************************************
+                    Pistas:
+        *************************************************************
+        1. Tu elemento `img` debe tener un atributo `src` en lugar de un atributo `href`.
+        2. Tu elemento `img` debe tener un atributo `alt` en lugar del atributo inexistente `att`.
+        3. Tu elemento `img` no debe tener una etiqueta de cierre `</img>`.
+        4. Tu elemento `a` con el texto «Visita la página de gatos» debe tener un atributo `href` en lugar de un atributo `src`.
+        5. Tu elemento `a` con el texto «Visita la página de perros» debe tener un atributo `href` en lugar de un atributo `src`.
+        -->
+
+        <h1>¡Bienvenido a XYZ Pet Adoption!</h1>
+        <p>Considere adoptar una mascota hoy. Tenemos gatos, perros, conejos y más.</p>
+
+        <h2>¡Mira nuestros gatos!</h2>
+        <img src="../imagenes/cats.jpg" alt="Dos gatitos atigrados durmiendo juntos en un sofá.">
+
+        <h2>¡Adopta un gato!</h2>
+        <a href="/cats">Visita la página de gatos</a>
+
+        <h2>¡Adopta un perro!</h2>
+        <a href="/dogs">Visita la página de perros</a>
+</body>
+</html>
