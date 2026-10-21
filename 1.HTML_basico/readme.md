@@ -1,33 +1,43 @@
-# HTML básico
+<div align="center">
 
-En este apartado encontrarás ejemplos y ejercicios para practicar los fundamentos de HTML: la estructura de una página, los encabezados, los párrafos, las imágenes, los enlaces y algunos atributos.
+# 🧱 HTML básico
 
-## Recorrido recomendado
+### Los primeros pasos para construir una página web
 
-### 1. Crear una estructura sencilla
+Explora la estructura de un documento HTML, practica con elementos y atributos, y aprende a encontrar errores.
 
-En [1.proyecto_plan_de_estudios/plan_de_estudios.html](1.proyecto_plan_de_estudios/plan_de_estudios.html) verás una página organizada con un encabezado principal, subtítulos y párrafos. Te servirá para familiarizarte con la estructura básica del contenido HTML y la jerarquía de los encabezados.
+</div>
 
-### 2. Practicar con atributos y elementos HTML
+---
 
-- [3.atributos/atributos.html](3.atributos/atributos.html) muestra encabezados, párrafos e imágenes. Sirve para empezar a reconocer atributos como `src` y `alt`.
-- [3.atributos/atributos_2.html](3.atributos/atributos_2.html) presenta enlaces con `href` y `target`, una imagen y campos de entrada. También muestra atributos booleanos como `checked` y `disabled`.
-- La imagen [imagenes/cats.jpg](imagenes/cats.jpg) se utiliza como recurso local en algunos ejemplos.
+## 🗺️ Recorrido recomendado
 
-### 3. Depurar páginas con errores
+### 1. Construye una página
 
-En la carpeta [2.depurar(debug)](2.depurar(debug)) encontrarás dos ejercicios. Intenta corregir cada archivo antes de consultar el que termina en `_solucion`.
+En [📄 Plan de estudios](1.proyecto_plan_de_estudios/plan_de_estudios.html) encontrarás una página con títulos y párrafos. Fíjate en cómo se organiza el contenido y en la jerarquía de encabezados.
 
-- [ejercicio_01.html](2.depurar(debug)/ejercicio_01.html) consiste en corregir etiquetas de encabezado y párrafo mal escritas, además de cerrar correctamente un encabezado. Practicarás el uso de `h1`, `h2`, `h3` y `p`.
-  - [Solución](2.depurar(debug)/ejercicio_01_solucion.html)
-- [ejercicio_02.html](2.depurar(debug)/ejercicio_02.html) consiste en corregir una imagen y dos enlaces. Practicarás los atributos `src`, `alt` y `href`, y reconocerás que `img` es un elemento vacío y no lleva etiqueta de cierre.
-  - [Solución](2.depurar(debug)/ejercicio_02_solucion.html)
+### 2. Explora elementos y atributos
 
-## Cómo trabajar con los ejercicios
+- [📄 Atributos](3.atributos/atributos.html): encabezados, párrafos e imágenes; observa atributos como `src` y `alt`.
+- [📄 Más atributos](3.atributos/atributos_2.html): enlaces con `href` y `target`, imágenes, campos de entrada y atributos booleanos como `checked` y `disabled`.
+- [🖼️ Imagen de ejemplo](imagenes/cats.jpg): recurso local usado en algunos ejemplos.
 
-1. Lee el enunciado y las pistas incluidas en el archivo.
-2. Intenta corregir el HTML por tu cuenta.
+### 3. Encuentra y corrige errores
+
+En [📂 Depurar (debug)](2.depurar(debug)) hay dos ejercicios. Intenta resolverlos antes de abrir las soluciones.
+
+| Ejercicio | Practica | Solución |
+|---|---|---|
+| [Ejercicio 1](2.depurar(debug)/ejercicio_01.html) | Etiquetas `h1`, `h2`, `h3` y `p`; cierres correctos. | [Ver solución](2.depurar(debug)/ejercicio_01_solucion.html) |
+| [Ejercicio 2](2.depurar(debug)/ejercicio_02.html) | Imágenes y enlaces: `src`, `alt` y `href`. | [Ver solución](2.depurar(debug)/ejercicio_02_solucion.html) |
+
+## ✅ Cómo aprovechar los ejercicios
+
+1. Lee el enunciado y las pistas del archivo.
+2. Intenta resolverlo por tu cuenta.
 3. Abre la página en un navegador para comprobar el resultado.
-4. Compara tu trabajo con el archivo de solución cuando hayas terminado.
+4. Cuando termines, compara tu trabajo con la solución.
 
-Este apartado irá creciendo a medida que se incorporen nuevos ejemplos y ejercicios.
+---
+
+*Este apartado seguirá creciendo con nuevos ejemplos y ejercicios.*
