@@ -1,6 +1,6 @@
 # HTML básico
 
-En este apartado encontrarás ejemplos y ejercicios para practicar los fundamentos de HTML: la estructura de una página, los encabezados, los párrafos, las imágenes, los enlaces y algunos atributos.
+En este apartado encontrarás ejemplos y ejercicios para practicar los fundamentos de HTML: la estructura de una página, los encabezados, los párrafos, las imágenes, los enlaces y algunos atributos. También aprenderás a preparar un documento HTML y a conectar recursos externos con el elemento `link`.
 
 ## Recorrido recomendado
 
@@ -22,6 +22,10 @@ En la carpeta [2.depurar(debug)](2.depurar(debug)) encontrarás dos ejercicios. 
   - [Solución](2.depurar(debug)/ejercicio_01_solucion.html)
 - [ejercicio_02.html](2.depurar(debug)/ejercicio_02.html) consiste en corregir una imagen y dos enlaces. Practicarás los atributos `src`, `alt` y `href`, y reconocerás que `img` es un elemento vacío y no lleva etiqueta de cierre.
   - [Solución](2.depurar(debug)/ejercicio_02_solucion.html)
+
+### 4. Preparar una plantilla HTML y enlazar recursos
+
+En [4.Plantilla_html/plantilla.html](4.Plantilla_html/plantilla.html) encontrarás una estructura HTML lista para usar. Observa cómo se utiliza el elemento `link` para conectar una hoja de estilos, cargar una fuente de Google Fonts y añadir un icono a la página.
 
 ## Cómo trabajar con los ejercicios
 
