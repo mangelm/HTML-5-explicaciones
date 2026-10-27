@@ -27,6 +27,8 @@ En la carpeta [2.depurar(debug)](2.depurar(debug)) encontrarás dos ejercicios. 
 
 En [4.Plantilla_html/plantilla.html](4.Plantilla_html/plantilla.html) encontrarás una estructura HTML lista para usar. Observa cómo se utiliza el elemento `link` para conectar una hoja de estilos, cargar una fuente de Google Fonts y añadir un icono a la página.
 
+En [4.Plantilla_html/explicacion_plantilla.html](4.Plantilla_html/explicacion_plantilla.html) se explica la estructura básica de una plantilla HTML: la declaración del tipo de documento, los metadatos del `head` y el contenido del `body`.
+
 ## Cómo trabajar con los ejercicios
 
 1. Lee el enunciado y las pistas incluidas en el archivo.
