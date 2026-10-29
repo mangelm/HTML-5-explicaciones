@@ -22,7 +22,13 @@ En [📄 Plan de estudios](1.proyecto_plan_de_estudios/plan_de_estudios.html) en
 - [📄 Más atributos](3.atributos/atributos_2.html): enlaces con `href` y `target`, imágenes, campos de entrada y atributos booleanos como `checked` y `disabled`.
 - [🖼️ Imagen de ejemplo](imagenes/cats.jpg): recurso local usado en algunos ejemplos.
 
-### 3. Encuentra y corrige errores
+### 3. Revisa la plantilla y la codificación
+
+- [📄 Plantilla HTML](4.Plantilla_html/plantilla.html): estructura básica de un documento HTML.
+- [📄 Explicación de la plantilla](4.Plantilla_html/explicacion_plantilla.html): función de las etiquetas y metadatos principales.
+- [📄 Codificación UTF-8](4.Plantilla_html/codificacion_utf8.html): ejemplos de acentos y caracteres especiales en el documento.
+
+### 4. Encuentra y corrige errores
 
 En [📂 Depurar (debug)](2.depurar(debug)) hay dos ejercicios. Intenta resolverlos antes de abrir las soluciones.
 
