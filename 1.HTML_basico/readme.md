@@ -22,13 +22,23 @@ En [📄 Plan de estudios](1.proyecto_plan_de_estudios/plan_de_estudios.html) en
 - [📄 Más atributos](3.atributos/atributos_2.html): enlaces con `href` y `target`, imágenes, campos de entrada y atributos booleanos como `checked` y `disabled`.
 - [🖼️ Imagen de ejemplo](imagenes/cats.jpg): recurso local usado en algunos ejemplos.
 
-### 3. Revisa la plantilla y la codificación
+### 3. Construye el proyecto de fotos de gatos
+
+Este proyecto está dividido en tres pasos para mostrar cómo va creciendo la página. El archivo **final** es el proyecto completo; puedes abrirlo directamente o recorrer los pasos para ver cómo se construyó.
+
+| Paso | Archivo | Qué incorpora |
+|---|---|---|
+| 1 | [imagenes_gatos.html](5.Proyecto_aplicacion_imagenes_gatos/imagenes_gatos.html) | Encabezados, enlaces e imágenes de gatos. |
+| 2 | [imagenes_gatos_2.html](5.Proyecto_aplicacion_imagenes_gatos/imagenes_gatos_2.html) | Imagen enlazada y primera lista de cosas que les gustan a los gatos. |
+| ⭐ **Proyecto completo** | [**imagenes_gatos_final.html**](5.Proyecto_aplicacion_imagenes_gatos/imagenes_gatos_final.html) | Versión final con listas, imágenes con `figure` y `figcaption`, texto destacado y pie de página. |
+
+### 4. Revisa la plantilla y la codificación
 
 - [📄 Plantilla HTML](4.Plantilla_html/plantilla.html): estructura básica de un documento HTML.
 - [📄 Explicación de la plantilla](4.Plantilla_html/explicacion_plantilla.html): función de las etiquetas y metadatos principales.
 - [📄 Codificación UTF-8](4.Plantilla_html/codificacion_utf8.html): ejemplos de acentos y caracteres especiales en el documento.
 
-### 4. Encuentra y corrige errores
+### 5. Encuentra y corrige errores
 
 En [📂 Depurar (debug)](2.depurar(debug)) hay dos ejercicios. Intenta resolverlos antes de abrir las soluciones.
 
