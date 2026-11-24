@@ -21,6 +21,8 @@ En [📄 Plan de estudios](1.Proyecto_Plan_De_Estudios/plan_de_estudios.html) en
 - [📄 Atributos](3.Atributos/atributos.html): encabezados, párrafos e imágenes; observa atributos como `src` y `alt`.
 - [📄 Más atributos](3.Atributos/atributos_2.html): enlaces con `href` y `target`, imágenes, campos de entrada y atributos booleanos como `checked` y `disabled`.
 - [📄`div` y `section`](7.Fundamentos_HTML/div.html): compara cómo agrupar elementos con `<div>`, sin significado semántico propio, y con `<section>`, para contenido relacionado.
+- [📄 Ejemplo de `id`](7.Fundamentos_HTML/id.html): identifica elementos con `id` y observa cómo seleccionarlos desde CSS.
+- [📄 Ejemplo de `class`](7.Fundamentos_HTML/class.html): aplica clases reutilizables para dar estilo a varios elementos. Usa la hoja de estilos [styles.css](css/styles.css).
 - [🖼️ Imagen de ejemplo](imagenes/cats.jpg): recurso local usado en algunos ejemplos.
 
 ### 3. Construye el proyecto de fotos de gatos
